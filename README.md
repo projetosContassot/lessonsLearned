@@ -6,7 +6,7 @@ Todas as imagens e requisitos propostos pertecem à escola Trybe, o conteúdo do
 
 Neste projeto foi proposto desenvolver um site que contenha uma série de informações sobre o que aprendi na Trybe ao longo dos três primeiros blocos. O site devia estar com elementos posicionados, estilizados e além disto, devia conter semântica apropriada para que fosse acessível e melhor ranqueado.
 
-💡Veja o exemplo a seguir de como o projeto devia se parecer depois de pronto.
+💡Veja o exemplo a seguir de como o projeto devia se parecer depois de pronto e [aqui](https://projetoscontassot.github.io/lessonsLearned/) como o ficou após finalizado..
 
 ![exemplo](./exemplo.png)
 
